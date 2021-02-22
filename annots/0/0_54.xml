@@ -1,7 +1,7 @@
 <annotation>
-	<folder>1</folder>
-	<filename>1_0.jpg</filename>
-	<path>C:\Users\tia_v\Desktop\Dataset\images\test1\1\1_0.jpg</path>
+	<folder>0</folder>
+	<filename>0_54.jpg</filename>
+	<path>C:\Users\tia_v\Desktop\Dataset\images\test1\0\0_54.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,14 +12,14 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>1</name>
+		<name>0</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>100</xmin>
-			<ymin>79</ymin>
-			<xmax>205</xmax>
+			<xmin>104</xmin>
+			<ymin>136</ymin>
+			<xmax>195</xmax>
 			<ymax>246</ymax>
 		</bndbox>
 	</object>
